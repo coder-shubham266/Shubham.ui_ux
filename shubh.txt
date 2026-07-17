@@ -1,3 +1,0 @@
-
-
-Finally we know how to add the file and how to get to git repo from linux
